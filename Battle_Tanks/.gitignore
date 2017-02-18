@@ -41,7 +41,7 @@
 *.VC.opendb
 
 #Asset folder
-../Assets/*
+/Assets/*
 
 #StarterContent pack
 Battle_Tanks/Content/StarterContent/*
