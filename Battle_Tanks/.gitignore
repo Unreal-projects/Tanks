@@ -40,6 +40,12 @@
 *.sdf
 *.VC.opendb
 
+#Asset folder
+Assets/*
+
+#StarterContent pack
+Battle_Tanks/Content/StarterContent/*
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
